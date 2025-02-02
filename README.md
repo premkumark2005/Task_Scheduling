@@ -14,4 +14,4 @@ This project implements a **Greedy Algorithm** for **task scheduling**, where ta
 2. **Assign tasks** to the worker with the **least current load**.
 3. Repeat until **all tasks are assigned**.
 
-## 📂 Project Structure
+
